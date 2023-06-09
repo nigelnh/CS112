@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;GridLines2.java&apos; to &apos;HW7/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;HW6&apos;&#x0D;&#x0A;- Destination element: &apos;HW7/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;GridLines2.java&apos;" description="Copy compilation unit" destination="=HW7/&lt;" element1="/&lt;{GridLines2.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1680566915748" units="1" version="1.0"/>
+</session>
